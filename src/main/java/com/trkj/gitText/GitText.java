@@ -6,5 +6,6 @@ public class GitText {
         System.out.println("j2222222222");
         System.out.println("j3333333333");
         System.out.println("j4444444444");
+        System.out.println("hot-fix test");
     }
 }
